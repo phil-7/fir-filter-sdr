@@ -1,0 +1,8 @@
+# Set 
+
+FREQ = 98.8e6
+SAMP_RATE = 2e6
+GAIN = 30
+ANTENNA = "LNAW" # LNAW for Mini, LNAL for USB
+DURATION = 2 # seconds
+FFT_SIZE = 4096
